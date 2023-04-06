@@ -1,6 +1,7 @@
 # 莫然
 <!---![个人照片](images/homepage_pic.jpg)--->
 <img src="images/homepage_pic.jpg" alt="Homepage" width="150" height="150" title="个人照片">
+
 ## 个人介绍
 
 **莫然**，华中师范大学副教授，硕士生导师，入选湖北省“楚天学子”，华中师范大学“桂子青年学者”，获2021武汉计算机软件学会“青年才俊奖”
