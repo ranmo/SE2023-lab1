@@ -8,10 +8,10 @@
 2012-2018 美国Drexel University，博士
 2007-2011 华中科技大学，学士
 
-##教授课程
+## 教授课程
 __软件工程__、软件测试与质量保证、软件项目管理、*工程研究方法*、_研究方法论_
 
-##发表论文
+## 部分论文
 * Qiong Feng and Ran Mo*, "Fine-grained Analysis of Dependency Cycles among Classes", Journal Of Software: Evolution And Process (JSEP), 2022.
 * Wuyan Cheng, Po Hu*, Shaozhi Wei, and Ran Mo*, "Keyword-Guided Abstractive Code Summarization via Incorporating Structural and Contextual Information", Information and Software Technology (IST), 150, 106987, 2022.
 * Yang Zhao, Ran Mo*, Yao Zhang, Siyuan Zhang, and Pu Xiong, "Exploring and Understanding Cross-service Code Clones in Microservice Projects", International Conference on Program Comprehension (ICPC), 449-459, 2022.
@@ -21,7 +21,7 @@ __软件工程__、软件测试与质量保证、软件项目管理、*工程研
 * Ran Mo, Yuanfang Cai, Rick Kazman, Lu Xiao, and Qiong Feng, "Architecture Anti-patterns: Automatically Detectable Violations of Design Principles", IEEE Transactions on Software Engineering (TSE), 47(5), 1008-1028, 2021.
 ...
 
-##科研项目
+## 科研项目
 国家级、省部级、武汉市科研项目多项
 
 个人主页：<http://ranmo.site/>
