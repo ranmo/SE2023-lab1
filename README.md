@@ -1,5 +1,5 @@
 # 莫然
-![个人照片](images/homepage_pic.jpg =250x250)
+![个人照片](images/homepage_pic.jpg){:height="100px" width="100px"}
 ## 个人介绍
 
 **莫然**，华中师范大学副教授，硕士生导师，入选湖北省“楚天学子”，华中师范大学“桂子青年学者”，获2021武汉计算机软件学会“青年才俊奖”
@@ -19,7 +19,7 @@ __软件工程__、软件测试与质量保证、软件项目管理、*工程研
 * Ran Mo, Yang Zhao, Qiong Feng, and Zengyang Li, "The Existence and Co-Modifications of Code Clones within or across Microservices", International Symposium on Empirical Software Engineering and Measurement (ESEM), 1-11, 2021.
 * Ting Hu, Ran Mo*, Pu Xiong, Zengyang Li, and Qiong Feng, "Formal Definition and Automatic Generation of Semantic Metrics: An Empirical Study on Bug Prediction", International Working Conference on Source Code Analysis and Manipulation (SCAM), 92-102, 2021.
 * Ran Mo, Yuanfang Cai, Rick Kazman, Lu Xiao, and Qiong Feng, "Architecture Anti-patterns: Automatically Detectable Violations of Design Principles", IEEE Transactions on Software Engineering (TSE), 47(5), 1008-1028, 2021.
-...
+* ...
 
 ## 科研项目
 国家级、省部级、武汉市科研项目多项
